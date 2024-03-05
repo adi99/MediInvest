@@ -1,28 +1,10 @@
-# How to Build an Awesome Web3 Crowd-Funding Platform with React, Solidity, and CometChat
+# MediInvest
+Medical Vaccines and Equipment are very expensive Research Projects. This project is based on a quadratic Funding mechanism. The medical vaccines and Equipment researcher can create a CrowdFunding project with all the details and quadratic function for Matching Funding from Investors. This project lets researcher invite other veterans and researcher to verify and approve project from documents which are not available to the general public. Investor can fund and earn the rights to manufacture and distribution of Medicine and Equipments.
+ <p align="center">
+  <img alt="Dark" src="https://github.com/adi99/MediInvest/blob/main/ProjectView.jpg" width="100%">
+</p>
 
-Read the full tutorial here: [**>> How to Build an Awesome Web3 Crowd-Funding Platform with React, Solidity, and CometChat**](https://daltonic.github.io)
 
-This example shows How to Build an Awesome Web3 Crowd-Funding Platform with React, Solidity, and CometChat:
-
-![Genesis Project](./screenshots/0.gif)
-<center><figcaption>Genesis Project</figcaption></center>
-
-![Genesis Project](./screenshots/1.gif)
-<center><figcaption>Back Project</figcaption></center>
-
-## Technology
-
-This demo uses:
-
-- Metamask
-- Hardhat
-- Infuria
-- ReactJs
-- Tailwind CSS
-- CometChat
-- Solidity
-- EthersJs
-- Faucet
 
 ## Running the demo
 
@@ -32,7 +14,7 @@ To run the demo follow these steps:
     ```sh
 
     # Make sure you have the above prerequisites installed already!
-    git clone https://github.com/Daltonic/genesis PROJECT_NAME
+    git clone https://github.com/adi99/MediInvest PROJECT_NAME
     cd PROJECT_NAME # Navigate to the new folder.
     yarn install # Installs all the dependencies.
     ```
@@ -47,20 +29,4 @@ To run the demo follow these steps:
 3. Run the app using `yarn start`
 <br/>
 
-If your confuse about the installation, check out this **TUTORIAL** to see how you should run it.
 
-Questions about running the demo? [Open an issue](https://github.com/Daltonic/genesis/issues). We're here to help ✌️
-
-## Useful links
-
-- 🏠 [Website](https://daltonic.github.io/)
-- ⚽ [Metamask](https://metamask.io/)
-- 🚀 [Remix Editor](https://remix.ethereum.org/)
-- 💡 [Hardhat](https://hardhat.org/)
-- 📈 [Infuria](https://infura.io/)
-- 🔥 [ReactJs](https://reactjs.org/)
-- 🐻 [Solidity](https://soliditylang.org/)
-- 👀 [EthersJs](https://docs.ethers.io/v5/)
-- 🎅 [Faucet](https://faucets.chain.link/rinkeby)
-- 🤖 [CometChat](https://cometchat.com/)
-- ✨ [Live Demo](https://genesis-45443.web.app/)
