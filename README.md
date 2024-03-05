@@ -23,7 +23,16 @@ Medical Vaccines and Equipment are very expensive Research Projects. This projec
   ![Capture d’écran 2022-05-12 à 23 16 45](https://github.com/adi99/MediInvest/blob/main/projectDetail.jpg)
   
 * The third page is Peer-Review Page where Cards are shown with Verify Button. The Researcher put their credentials and access to locked content which are not visible to general public.
-  ![Capture d’écran 2022-05-12 à 23 16 45](https://github.com/adi99/MediInvest/blob/main/Peer%20Review.jpg)  
+  ![Capture d’écran 2022-05-12 à 23 16 45](https://github.com/adi99/MediInvest/blob/main/Peer%20Review.jpg)
+
+* After putting their Credentials to the Peer-Review page, they will move to Project page again but with additonal content like pdf and other data. They can review the locked content and Approve the Project. 
+  ![Capture d’écran 2022-05-12 à 23 16 45](https://github.com/adi99/MediInvest/blob/main/PeerRevDetail.jpg)
+
+* After reaching their Goal, Projects are shown into Investor page. This page only shows the projects who has reached their targets. Investor can invest and Earn the rights to produce the vaccine.
+  ![Capture d’écran 2022-05-12 à 23 16 45](https://github.com/adi99/MediInvest/blob/main/Investor.jpg)
+
+* after Clicking the project card it moves to project page where the locked documents, Peer Review and quadratic function ratios are shown. There is also a button which show how much Investment can earn them rights to produce the medicine. If anybody Invested in project, It will be closed for Investment.
+  ![Capture d’écran 2022-05-12 à 23 16 45](https://github.com/adi99/MediInvest/blob/main/InvestorDetail.jpg)     
 
 
 ## Running the demo
