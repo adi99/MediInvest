@@ -14,6 +14,16 @@ Medical Vaccines and Equipment are very expensive Research Projects. This projec
   <li><b>Investor-proj-detail:</b> This page show case all the project details including the person who has approved it and Quadratic funding ratio. A button to invest and earn the rights to produce and manufacture the vaccine is also shown on the page</li>
 </ul>
 
+### User interface
+
+* The home page is the landing page of the app, where a add project button and all the projects are shown
+  ![Capture d’écran 2022-05-12 à 23 16 45](https://github.com/adi99/MediInvest/blob/main/Createproject.jpg)
+  
+* When clicked on the project cards it moves to Project description page which show creator, backers, status as well as Edit and Delete button.
+  ![Capture d’écran 2022-05-12 à 23 16 45](https://github.com/adi99/MediInvest/blob/main/projectDetail.jpg)
+  
+* The third page is Peer-Review Page where Cards are shown with Verify Button. The Researcher put their credentials and access to locked content which are not visible to general public.
+  ![Capture d’écran 2022-05-12 à 23 16 45](https://github.com/adi99/MediInvest/blob/main/Peer%20Review.jpg)  
 
 
 ## Running the demo
