@@ -4,6 +4,16 @@ Medical Vaccines and Equipment are very expensive Research Projects. This projec
   <img alt="Dark" src="https://github.com/adi99/MediInvest/blob/main/ProjectView.jpg" width="100%">
 </p>
 
+<h4>Core functions:</h4>
+<ul>
+  <li><b>Home:</b> This page shows all the projects created and Add project button to create Projects.</li>
+  <li><b>Poject Detail:</b> A page for investing/backing a Project. Also the owner can Edit or Delete the Project.</li>
+  <li><b>Peer Review:</b> This page showcase projects with verify button to add the credentials and can access the locked documets</li>
+  <li><b>Peer-review detail:</b> This page show case project with additional locked content to verify the project. if satisfied peers can approve a project.</li>
+  <li><b>Investor:</b> This page only showcase project which are already crowdfunded and needed additional funding based on the matching quadratic Funding Ration</li>
+  <li><b>Investor-proj-detail:</b> This page show case all the project details including the person who has approved it and Quadratic funding ratio. A button to invest and earn the rights to produce and manufacture the vaccine is also shown on the page</li>
+</ul>
+
 
 
 ## Running the demo
