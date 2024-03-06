@@ -4,7 +4,8 @@ Medical Vaccines and Equipment are very expensive Research Projects. This projec
   <img alt="Dark" src="https://github.com/adi99/MediInvest/blob/main/ProjectView.jpg" width="100%">
 </p>
 
-<h1>Core functions:</h1>
+# Core functions
+
 ## Home
 - Display all the ongoing projects in a grid or list format.
 - Each project card includes essential details such as project title, brief description, funding progress, and status.
