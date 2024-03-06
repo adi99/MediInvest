@@ -185,13 +185,13 @@ const CreateProject = () => {
             border-0 text-sm text-slate-500 focus:outline-none
             focus:ring-0"
               name="QuadraticFundingRatio"
-              onChange={(e) => setQuadraticFundingRatio(parseInt(e.target.value))}
+              onChange={(e) => setQuadraticFundingRatio(e.target.value)}
               value={QuadraticFundingRatio}
               required
             >
-              <option value={2}>1:2</option>
-              <option value={3}>1:3</option>
-              <option value={4}>1:4</option>
+              <option value="1:2">1:2</option>
+              <option value="1:3">1:3</option>
+              <option value="1:4">1:4</option>
             </select>
           </div>
 
