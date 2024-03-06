@@ -4,15 +4,37 @@ Medical Vaccines and Equipment are very expensive Research Projects. This projec
   <img alt="Dark" src="https://github.com/adi99/MediInvest/blob/main/ProjectView.jpg" width="100%">
 </p>
 
-<h4>Core functions:</h4>
-<ul>
-  <li><b>Home:</b> This page shows all the projects created and Add project button to create Projects.</li>
-  <li><b>Poject Detail:</b> A page for investing/backing a Project. Also the owner can Edit or Delete the Project.</li>
-  <li><b>Peer Review:</b> This page showcase projects with verify button to add the credentials and can access the locked documets</li>
-  <li><b>Peer-review detail:</b> This page show case project with additional locked content to verify the project. if satisfied peers can approve a project.</li>
-  <li><b>Investor:</b> This page only showcase project which are already crowdfunded and needed additional funding based on the matching quadratic Funding Ration</li>
-  <li><b>Investor-proj-detail:</b> This page show case all the project details including the person who has approved it and Quadratic funding ratio. A button to invest and earn the rights to produce and manufacture the vaccine is also shown on the page</li>
-</ul>
+<h1>Core functions:</h1>
+## Home
+- Display all the ongoing projects in a grid or list format.
+- Each project card includes essential details such as project title, brief description, funding progress, and status.
+- Provide an "Add Project" button for researchers to create new crowdfunding projects.
+
+## Project Detail
+- Show detailed information about a specific project.
+- Display funding progress, target amount, and current backers.
+- Allow the project owner to edit or delete the project if necessary.
+- Provide options for backers to invest in the project.
+
+## Peer Review
+- Showcase projects that are in need of peer review.
+- Include a "Verify" button for peers to verify the credentials and access locked documents.
+- Allow peers to submit their reviews and ratings for each project.
+
+## Peer Review Detail
+- Display a specific project requiring peer review.
+- Present additional locked content related to the project for verification.
+- Peers can submit their approval if satisfied with the project after reviewing the documents.
+
+## Investor
+- Show projects that are already crowdfunded and require additional funding based on the quadratic funding ratio.
+- Display funding progress, remaining funding needed, and quadratic funding ratio for each project.
+
+## Investor Project Detail
+- Showcase detailed information about a particular project, including the person who has approved it and the quadratic funding ratio.
+- Provide a button for investors to invest and earn rights to produce and distribute the vaccine or equipment.
+- Display information on potential returns or benefits for investors.
+
 
 ### User interface
 
